@@ -15,6 +15,8 @@ brave_path = "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe
 
 option = webdriver.ChromeOptions()
 option.binary_location = brave_path
+option.add_argument('--headless')
+option.add_argument('--disable-gpu')
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
