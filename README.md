@@ -1,4 +1,4 @@
-# atten-bot
+# Atten-bot
 Attendance Bot made for my college mates  
   
 - Token code can be taken by sending a message to @botfather on telegram
