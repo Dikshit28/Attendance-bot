@@ -5,7 +5,8 @@ Attendance Bot made for my college mates
 - Feel free to post issues and pull requests
 
 ## How to use  
-- install requirements.txt
+- install requirements.txt 
+- - `pip install -r requirements.txt`
 - Input the token code
 - Adjust the browser and chromedriver location
 - You are good to go
