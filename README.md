@@ -1,5 +1,5 @@
-# Atten-bot
-Attendance Bot made for my college mates  
+# Atten-bot-NCU
+Attendance Bot made for the students of The NorthCap University
   
 - Token code can be taken by sending a message to @botfather on telegram
 - Feel free to post issues and pull requests
