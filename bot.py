@@ -18,8 +18,8 @@ brave_path = "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe
 
 option = webdriver.ChromeOptions()
 option.binary_location = brave_path
-option.add_argument('--headless')
-option.add_argument('--disable-gpu')
+#option.add_argument('--headless')
+#option.add_argument('--disable-gpu')
 
 # Command Handlers. Usually take two arguments: bot and update.
 
@@ -114,7 +114,7 @@ def attendance(update, context):
 def main():
     # Create updater and pass in Bot's auth key.
     updater = Updater(
-        token='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', use_context=True)
+        token='xxxxxxxxxxxxxxxxxxxxxxxxxxxx', use_context=True)
     # Get dispatcher to register handlers
     dispatcher = updater.dispatcher
     # answer commands
