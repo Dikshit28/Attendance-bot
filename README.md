@@ -17,7 +17,7 @@ Attendance Bot made for the students of The NorthCap University
 - Python Telegram Bot library [Docs here](https://python-telegram-bot.readthedocs.io/en/stable/index.html)
 - Xpath [Learn here](https://www.w3schools.com/xml/xpath_intro.asp)
 
-P.S It's my first OpenSource project, So if you have any advice post a issue or [Mail me](sanju39194@gmail.com)
+P.S It's my first OpenSource project, So if you have any advice post a issue or Mail me at <sanju39194@gmail.com>
 
 👩‍💻Code Python !
 🎉Have Fun !!
