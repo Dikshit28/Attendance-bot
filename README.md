@@ -11,6 +11,7 @@ Attendance Bot made for the students of The NorthCap University
 - Input the token code
 - Token code can be taken by sending a message to @botfather on telegram
 - Adjust the browser and chromedriver location
+- Change the Scraping code acc to your needs
 - You are good to go
 ## Concepts used
 - PyMongo [Learn here](https://pymongo.readthedocs.io/en/stable/tutorial.html)
