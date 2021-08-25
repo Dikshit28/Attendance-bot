@@ -1,7 +1,6 @@
 # Atten-bot-NCU
 Attendance Bot made for the students of The NorthCap University
 
-- Feel free to post issues and pull requests
 - Star the Repo ⭐ or fork it 😉
 
 ## How to use  
